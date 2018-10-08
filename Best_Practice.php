@@ -1,5 +1,3 @@
-# Best-Practice
-
 <?php
 
 
